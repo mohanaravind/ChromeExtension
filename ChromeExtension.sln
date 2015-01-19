@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChromeExtension", "ChromeExtension\ChromeExtension.csproj", "{9BEBE5B0-D8E7-4DC8-94EF-81471BD3A2B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOEchoDemo", "..\IOEchoDemo\IOEchoDemo\IOEchoDemo.csproj", "{C6BC43E8-1DEE-40CB-8CC9-2D731D9603ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "Demo\Demo.csproj", "{1B11793D-4FDB-4BAC-ACF0-FC9F5A7A8F43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BEBE5B0-D8E7-4DC8-94EF-81471BD3A2B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BEBE5B0-D8E7-4DC8-94EF-81471BD3A2B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BEBE5B0-D8E7-4DC8-94EF-81471BD3A2B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BEBE5B0-D8E7-4DC8-94EF-81471BD3A2B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6BC43E8-1DEE-40CB-8CC9-2D731D9603ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6BC43E8-1DEE-40CB-8CC9-2D731D9603ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6BC43E8-1DEE-40CB-8CC9-2D731D9603ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6BC43E8-1DEE-40CB-8CC9-2D731D9603ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B11793D-4FDB-4BAC-ACF0-FC9F5A7A8F43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B11793D-4FDB-4BAC-ACF0-FC9F5A7A8F43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B11793D-4FDB-4BAC-ACF0-FC9F5A7A8F43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B11793D-4FDB-4BAC-ACF0-FC9F5A7A8F43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
